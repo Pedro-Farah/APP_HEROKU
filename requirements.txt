@@ -1,1 +1,1 @@
-streamlit==0.82.0
+import streamlit as st
